@@ -9,8 +9,9 @@ I'm a **Biomedical Engineering student** passionate about **biomedical signal pr
 - 🌱 Always learning and experimenting with new technologies  
 - 🎨 Outside of engineering: art, science, and creative projects  
   
-Currently working on my F1 Fantasy game project, feel free to check it out. http://www.f1fantasy.gamer.gd
-
+Currently working on my 
+1. F1 Fantasy game project, feel free to check it out. http://www.f1fantasy.gamer.gd
+2. Website for my dad's charity NGO http://www.path.lovestoblog.com
 ---
 
 Feel free to explore my repositories and connect with me!  
