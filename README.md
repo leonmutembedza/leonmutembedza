@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Leon
 
-<!--
-**leonmutembedza/leonmutembedza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+I'm a **Biomedical Engineering student** passionate about **biomedical signal processing, AI, and healthcare technology**. I love building projects that bridge theory and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Exploring **medical imaging, signal processing, and data analysis**  
+- 💻 Working with **Python, MATLAB, and machine learning**  
+- 🌱 Always learning and experimenting with new technologies  
+- 🎨 Outside of engineering: art, science, and creative projects  
+  
+Feel free to explore my repositories and connect with me!  
+
+---
+
+## 🚀 Fun Fact
+I enjoy turning complex engineering problems into practical solutions and love combining tech with healthcare innovation.  
+
