@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I'm a **Biomedical Engineering student** passionate about **biomedical signal processing, AI, and healthcare technology**. I love building projects that bridge theory and real-world applications.
 
 - 🔬 Exploring **medical imaging, signal processing, and data analysis**  
-- 💻 Working with **Python, MATLAB, and machine learning**  
+- 💻 Working with **Python, HTML, Javascript, CSS, C#, Machine Learning Tools, SQL**  
 - 🌱 Always learning and experimenting with new technologies  
 - 🎨 Outside of engineering: art, science, and creative projects  
   
